@@ -12,7 +12,7 @@ namespace Ellyality.Display
         {
             if (!StartAtBegining) return;
 
-            for(int i = 0; i < ActiveCount; i++)
+            for(int i = 0; i < ActiveCount + 1; i++)
             {
                 Activate(i);
             }

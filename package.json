@@ -7,13 +7,13 @@
     "keywords": ["display", "control"],
     "category": "engineering",
     "license": "LICENSE",
-	"description": "",
-    "documentationUrl": "https://github.com/Ellyality/package_randomness/blob/main/README.md",
+	"description": "Provide a script that quick control display",
+    "documentationUrl": "https://github.com/Ellyality/package_display/blob/main/README.md",
     "samples":[
         {
             "displayName": "Demo Scene",
-            "description": "All the noise display scene",
-            "path": "Demo/Scenes"
+            "description": "A simple scene with two camera in it, build it to test it",
+            "path": "~Demo"
         }
     ],
     "dependencies": {
